@@ -1,0 +1,9 @@
+.frame-wrap {
+    width: 75%;
+    margin: 40px auto;
+    
+}
+
+.frame-wrap .ant-table-wrapper {
+    background-color: #fff;
+}

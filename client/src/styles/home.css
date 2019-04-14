@@ -1,0 +1,20 @@
+.home-wrap {
+    
+}
+
+.home-wrap .content {
+    flex: 1;
+}
+
+.js-tool-fn-wrap {
+    margin-bottom: 30px;
+}
+
+.js-tool-fn-wrap .desc {
+    padding-bottom: 10px;
+}
+
+.home-wrap .side-bar {
+    width: 280px;
+    margin-left: 20px;
+}
