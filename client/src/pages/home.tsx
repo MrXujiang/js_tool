@@ -1,7 +1,8 @@
 import * as React from 'react';
 import { Icon, notification } from 'antd';
 import Pre from '../components/pre';
-import data from './home_data.js';
+import {data} from './home_data.js';
+
 
 import '../styles/home.css';
 
@@ -21,6 +22,7 @@ class Home extends React.Component {
   componentDidMount(){
     notification.close('styleFix');
     this.openNotification();
+    console.log(localStorage.home_data);
   }
 
   componentWillUnmount() {

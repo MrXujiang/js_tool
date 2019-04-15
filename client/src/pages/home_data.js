@@ -1,4 +1,4 @@
-export default [
+export const data = [
     {
         tit: '求一个集合是否是另一个集合的子集',
         desc: '使用数组的every方法求一个集合是否是另一个集合的子集',
