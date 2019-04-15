@@ -71,6 +71,18 @@ export default [
         desc: '轻松快速的找到各种最新的 jQuery 插件',
         url: 'http://www.unheap.com/'
     },
+    {
+        tit: 'Lodash',
+        label: 'javascript',
+        desc: '一个 JavaScript 的实用工具库, 表现一致性, 模块化, 高性能, 以及 可扩展',
+        url: 'https://www.lodashjs.com/docs/4.17.5.html'
+    },
+    {
+        tit: 'Echart数据图表',
+        label: '可视化',
+        desc: '一个使用 JavaScript 实现的开源可视化库，底层依赖轻量级的矢量图形库 ZRender',
+        url: 'https://www.lodashjs.com/docs/4.17.5.html'
+    },
 ]
 
 
